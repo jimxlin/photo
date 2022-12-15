@@ -1,14 +1,15 @@
-# photo-share
+# share-later
 
 ## TODO
 
 - [x] tooling
-- [ ] upload page
-- [ ] mock database
+- [x] dashboard page
+- [x] upload page
+- [ ] real database (DynamoDB)
 - [ ] S3 integration
 - [ ] sharing page
 - [ ] styling (Tailwind CSS)
 - [ ] authentication (iron-session)
-- [ ] real database (DynamoDB)
-- [ ] home page
+- [ ] landing page
 - [ ] demo page
+- [ ] email notifications (SES)
